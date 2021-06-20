@@ -1,0 +1,6 @@
+torchcrf=0.7.0
+torch=1.5.0
+json5=0.9.4
+matplotlib=3.0.3
+torchtext=0.6.0
+numpy=1.18.1
